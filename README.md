@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prashantanshgupta
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning html css and js
-- 💞️ I’m looking to collaborate on front end web developers projects
-- 📫 How to reach me ...
+- 👀 I’m interested in Web App Developement
+- 🌱 I’m currently learning HTMl, CSS, Javascript and React
+- 💞️ I’m looking to collaborate on Front-End web projects
+- 📫 Reach me : prashantanshgupta@gmail.com
 
 <!---
 prashantanshgupta/prashantanshgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
