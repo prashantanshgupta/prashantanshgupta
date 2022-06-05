@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashantanshgupta
 - 👀 I’m interested in Web App Developement
-- 🌱 I’m currently learning HTMl, CSS, Javascript and React
-- 💞️ I’m looking to collaborate on Front-End web projects
+- 🌱 HTMl, CSS, Javascript, React JS and Node Basics
+- 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me : prashantanshgupta@gmail.com
 
 <!---
