@@ -16,7 +16,7 @@ I'm a highly motivated and skilled full-stack developer with a passion for creat
 
 ## Contact
 
-If you're looking for a full-stack developer with a strong understanding of JavaScript, React, Node.js, Express, Mongoose, and Git, don't hesitate to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) or via email at [your email address](pranshantanshgupta@gmail.com). I'm always open to new opportunities and would love to discuss your project needs.
+If you're looking for a full-stack developer with a strong understanding of JavaScript, React, Node.js, Express, Mongoose, and Git, don't hesitate to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) or via email at [Gmail](pranshantanshgupta@gmail.com). I'm always open to new opportunities and would love to discuss your project needs.
 
 
 <!---
