@@ -9,14 +9,14 @@ I'm a highly motivated and skilled full-stack developer with a passion for creat
 - Proficient in JavaScript, React, Node.js, Express, and Mongoose
 - Experience with front-end development, including HTML, CSS, and responsive design
 - Strong understanding of database design and management using MongoDB
-- Proficient in Git and version control practices
+- Understanding of Git and version control practices
 - Experience with REST API development and testing
 - Ability to work with front-end and back-end development teams to ensure seamless integration
 - Excellent problem-solving and analytical skills
 
 ## Contact
 
-If you're looking for a full-stack developer with a strong understanding of JavaScript, React, Node.js, Express, Mongoose, and Git, don't hesitate to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) or via email at [Gmail](pranshantanshgupta@gmail.com). I'm always open to new opportunities and would love to discuss your project needs.
+If you're looking for a full-stack developer with a strong understanding of JavaScript, React, Node.js, Express, Mongoose, and Git, don't hesitate to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/prashantanshgupta/). I'm always open to new opportunities and would love to discuss your project needs.
 
 
 <!---
