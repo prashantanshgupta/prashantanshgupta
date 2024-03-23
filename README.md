@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 ## About Me 
-MERN (MongoDB, Express, React, Node.js) Stack Developer with a passion for creating dynamic and interactive web applications using the latest technologies. I bring a unique and creative approach to software development.
+Software Developer (Tech. - MERN) with a passion for creating dynamic and interactive web applications using the latest technologies. I bring a unique and creative approach to software development.
 
 ## Skills
 
