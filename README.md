@@ -1,38 +1,20 @@
 # Prashant Gupta
 
-> **Software Engineer · Backend & Full Stack**
+<img align="right" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="Small animated coding illustration" width="96">
 
-[↗ LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) · [◇ Portfolio](https://prashantguptaportfolio.netlify.app/) · [⌂ Mushin Technologies](https://www.mushinlabs.com/)
+**Software Engineer | Backend & Full Stack**
 
----
-
-## ◈ About
+[LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) · [Portfolio](https://prashantguptaportfolio.netlify.app/) · [Mushin Technologies](https://www.mushinlabs.com/)
 
 I’m a software engineer at Mushin Technologies with over four years of experience building backend services and full-stack features for manufacturing applications.
 
 I translate client requirements into APIs, data models and connected workflows across production, quality and maintenance. My work also includes improving application structure through shared components and utilities, and keeping related records consistent as workflows evolve.
 
-## ◈ Selected engineering work
+<br clear="right">
 
-### 01 · Gujarat Metal Cast — Manufacturing Traceability
-Batch relationships, quantity validation, sequence counters and duplicate handling.
+## 🛠️ Technologies
 
-### 02 · Citizen — Automated Spare Consumption
-Maintenance-driven consumption calculations, monthly stock balances and annual carry-forward.
-
-### 03 · JBM — Production & Change Management
-Connected production, rejection, breakdown and 4M workflows, including synchronization and version-conflict handling.
-
-### 04 · Gujarat Metal Cast — Reusable Assembly Architecture
-Shared components, hooks and utilities replacing repeated module implementations.
-
-### 05 · SL Fasteners — Quality & Approval Workflows
-SOP functionality, document controls and administrator/supervisor review workflows.
-
-> [!NOTE]
-> These contributions were delivered within Mushin Technologies’ engineering team. The implementations are maintained in private company repositories.
-
-## ⚙ Technologies
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,react,python,aws,git&amp;perline=10" alt="JavaScript, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, React, Python, AWS and Git" width="460">
 
 | Area | Technologies |
 | :--- | :--- |
@@ -43,6 +25,18 @@ SOP functionality, document controls and administrator/supervisor review workflo
 | **Frontend** | React · HTML5 · CSS |
 | **Cloud and tools** | AWS · Git |
 
-## ↗ Current direction
+## 💼 Selected engineering work
+
+| Work | Contribution |
+| :--- | :--- |
+| **Gujarat Metal Cast — Manufacturing Traceability** | Batch relationships, quantity validation, sequence counters and duplicate handling. |
+| **Citizen — Automated Spare Consumption** | Maintenance-driven consumption calculations, monthly stock balances and annual carry-forward. |
+| **JBM — Production & Change Management** | Connected production, rejection, breakdown and 4M workflows, including synchronization and version-conflict handling. |
+| **Gujarat Metal Cast — Reusable Assembly Architecture** | Shared components, hooks and utilities replacing repeated module implementations. |
+| **SL Fasteners — Quality & Approval Workflows** | SOP functionality, document controls and administrator/supervisor review workflows. |
+
+> These contributions were delivered within Mushin Technologies’ engineering team. The implementations are maintained in private company repositories.
+
+## 🌱 Current direction
 
 Working on connected workflows and automation has shaped my direction toward AI application development. I’m building on that backend experience to explore how LLM APIs can support useful features within existing applications.
