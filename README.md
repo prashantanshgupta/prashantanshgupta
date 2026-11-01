@@ -1,6 +1,6 @@
 # Prashant Gupta
 
-<img align="right" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="Small animated coding illustration" width="96">
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer working with code and application dashboards" width="160">
 
 **Software Engineer | Backend & Full Stack**
 
