@@ -1,33 +1,36 @@
-# JavaScript | React | Node.js | Express | Mongoose | Git
+# Prashant Gupta
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-## About Me 
-Software Developer (Tech. - MERN, Next JS, Nest Js) with a passion for creating dynamic and interactive web applications using the latest technologies. I bring a unique and creative approach to software development.
+**Software Engineer | Backend & Full Stack**
 
-## Skills
+I’m a software engineer at Mushin Technologies with over four years of experience building backend services and full-stack features for manufacturing applications.
 
-- Proficient in JavaScript, React, Node.js, Express, and Mongoose
-- Experience with front-end development, including HTML, CSS, and responsive design
-- Strong understanding of database design and management using MongoDB
-- Understanding of Git and version control practices
-- Experience with REST API development and testing
-- Ability to work with front-end and back-end development teams to ensure seamless integration
-- Excellent problem-solving and analytical skills
+I translate client requirements into APIs, data models and connected workflows across production, quality and maintenance. My work also includes improving application structure through shared components and utilities, and keeping related records consistent as workflows evolve.
 
-## Contact
+## Selected engineering work
 
-If you're looking for a full-stack developer with a strong understanding of JavaScript, React, Node.js, Express, Mongoose, and Git, don't hesitate to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/prashantanshgupta/). I'm always open to new opportunities and would love to discuss your project needs.
+| Work | Contribution |
+| --- | --- |
+| **Gujarat Metal Cast — Manufacturing Traceability** | Batch relationships, quantity validation, sequence counters and duplicate handling. |
+| **Citizen — Automated Spare Consumption** | Maintenance-driven consumption calculations, monthly stock balances and annual carry-forward. |
+| **JBM — Production & Change Management** | Connected production, rejection, breakdown and 4M workflows, including synchronization and version-conflict handling. |
+| **Gujarat Metal Cast — Reusable Assembly Architecture** | Shared components, hooks and utilities replacing repeated module implementations. |
+| **SL Fasteners — Quality & Approval Workflows** | SOP functionality, document controls and administrator/supervisor review workflows. |
 
+These contributions were delivered within Mushin Technologies’ engineering team. The implementations are maintained in private company repositories.
 
-<!---
-prashantanshgupta/prashantanshgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-## Projects
-### [Project Name]
-- Brief description of the project
-- Technologies used: React, Node.js, Express, MongoDB, Git
+## Technologies
 
-### [Project Name]
-- Brief description of the project
-- Technologies used: React, Node.js, Express, MongoDB, Git
---->
+- **Languages:** JavaScript, TypeScript, Python
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL
+- **Data access:** Mongoose ODM
+- **Frontend:** React, HTML5, CSS
+- **Cloud and tools:** AWS, Git
+
+## Current direction
+
+Working on connected workflows and automation has shaped my direction toward AI application development. I’m building on that backend experience to explore how LLM APIs can support useful features within existing applications.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/prashantanshgupta/) · [Portfolio](https://prashantguptaportfolio.netlify.app/) · [Mushin Technologies](https://www.mushinlabs.com/)
